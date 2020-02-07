@@ -1,0 +1,205 @@
+body{
+background-color:lightblue;
+border-style: groove;
+overflow-x: scroll;
+}
+.resume ,.home,.external{
+padding: 10px 60px;
+border: 1.5px solid orange; 
+background-color:white;
+  cursor: pointer; 
+  color:#3366ff;
+  margin-left:200px;
+  margin-right:auto;
+  margin-top:50px;
+  margin-bottom:100px;
+}
+  h2 {
+  color:tomato;
+  text-align: center;
+  }
+  
+h3,.email,.Number{
+  text-align:center;
+}
+#sec{
+	margin-left: auto;
+    margin-right: auto;
+	width:95%;
+  height: 500px;
+  padding: 10px;
+  background-color:#99ccff;
+  border-style: double;
+  border-color: white;
+  overflow:hidden;
+}
+
+#sec2,#sec1{
+	margin-left: auto;
+    margin-right: auto;
+	width:95%;
+  height: auto;
+  padding: 10px;
+  background-color:#99ccff;
+  border-style: double;
+  border-color: white;
+  overflow:hidden;
+}
+#qut{
+	margin-left: auto;
+    margin-right: auto;
+	width:95%;
+  height: 100px;
+  padding: 10px;
+  background-color:#99ccff;
+  border-style: double;
+  border-color: white;
+  overflow:hidden;
+}
+.wpp
+{
+	margin-top:70px;
+	margin-left:240px;
+	margin-right:auto;
+	margin-bottom:auto;
+	width:60%;
+}
+.quote{
+	text-align:center;
+  color: white;
+  font-size: 30px;
+}
+	
+.imgclass{
+	display:block;
+   margin-left:auto;
+   margin-right:110px;
+   margin-top:70px;
+  height: 300px;
+  overflow:hidden;
+  width:20%;
+  float:right;
+}	
+.more{
+	margin-left:100px;
+	margin-right:auto;
+    margin-top:1px;	
+    display:block;
+	width: 60%;
+	height: 450px;
+	float: left;
+	overflow:hidden;
+}
+.mdet{
+  text-align:left;
+  color: black;
+font-size: 27px;
+}
+.univ{
+	color:red;
+	text-align:left;
+	font-size: 27px;
+}
+	
+.det{
+  text-align:left;
+  color: blue;
+  font-size: 27px;
+  background-color:white;
+}
+.movies{
+	margin-left:80px;
+	margin-right:auto;
+    margin-top:auto;	
+	margin-bottom:auto;
+    display:block;
+	width: 20%;
+	height: auto;
+	float: left;
+	overflow:hidden;
+	font-size: 20px;
+}
+	
+.shows{
+	display:block;
+   margin-left:auto;
+   margin-right:110px;
+   margin-top:auto;
+   margin-bottom:auto;
+  height: auto;
+  overflow:hidden;
+  width:20%;
+  float:right;
+  font-size: 20px;
+}
+		
+	
+.link{
+	margin-top:15px;
+  text-align:left;
+  color:red;
+
+}
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: green;
+} 
+.img1 {
+  margin-left:auto;
+  margin-right:auto;
+ 
+  }
+  .pp{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:100%;
+  
+ }
+
+#wp , #wp th, #wp td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width:75%;
+  height:auto;
+  text-align: center;
+  margin-left:100px;
+  margin-right:auto;
+  
+}
+#wp th, #wp td {
+  padding: 5px;
+  width:auto;
+  height:auto;
+  text-align:center;
+}
+
+#wp th {
+  text-align: center;
+  width:auto;
+  height:auto;
+  background-color: #3399ff;
+  color: white;
+}
+#wp tr:nth-child(even)
+{
+	background-color:lightblue;
+}
+#wp tr:nth-child(odd)
+{
+	background-color:white;
+}
